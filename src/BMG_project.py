@@ -66,3 +66,4 @@ ratio = compression_ratio(text, encoded)    # Sıkıştırma oranı hesapla
 print("Sıkıştırılmış:", encoded)
 print("Çözülmüş:", decoded)
 print("Sıkıştırma Oranı (%):", ratio)
+#--PINAR NİDA TUNCA --
