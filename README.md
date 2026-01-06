@@ -25,10 +25,9 @@ Ayrıca program sıkıştırma oranını (%) hesaplamaktadır.
 ## Depodaki Dosyalar
 Bu repoda aşağıdaki dosyalar bulunmaktadır:
 
-- `rle_encoder.py` → RLE encode ve decode fonksiyonlarını içeren Python kodu  
-- `README.md` → Proje açıklamaları  
--`examples.txt` → Örnek giriş–çıkışlar  
-- `diagram.png` → Algoritma akış diyagramı  
+- `BMG_project.py` → RLE encode ve decode fonksiyonlarını içeren Python kodu  
+- `README.md` → Proje açıklamaları    
+- `sunum.pdf` → Konunun anlatımı yapılan slayt 
 
 ---
 
@@ -38,6 +37,8 @@ Bu repoda aşağıdaki dosyalar bulunmaktadır:
 - RLE (Run-Length Encoding) algoritması
 
 ---
+## Konu Anlatımına Erişim
+-Youtube Linki: https://www.youtube.com/watch?v=d8h2I-5HdSI
 
 ##  Programın Çalıştırılması
 1. Depoyu bilgisayarınıza klonlayın veya ZIP olarak indirin 
