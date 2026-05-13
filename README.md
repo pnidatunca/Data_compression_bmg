@@ -1,8 +1,7 @@
-# -BLM101_25360859206_PinarNidaTunca
+# Data Compression
 BLM101 – Introduction to Computer Engineering Course Term Project
 ## Dönem Projesi – RLE (Run-Length Encoding) Sıkıştırıcı  
 **Öğrenci Adı Soyadı:** Pınar Nida Tunca  
-**Öğrenci No:** 25360859206 
 **Ders:** BLM101 – Bilgisayar Mühendisliğine Giriş  
 **Üniversite:** Bursa Teknik Üniversitesi – Bilgisayar Mühendisliği Bölümü  
 
